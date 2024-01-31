@@ -1,2 +1,2 @@
 # Hello Git
-Good luck! Exam!!
+Good luck! Exam!
